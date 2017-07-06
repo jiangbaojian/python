@@ -1,3 +1,2 @@
 # python
-一些pytho程序
-主要是主要是主要是主要是主要是主要是pyton爬虫urllibb
+pyton爬虫urllibb
